@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @asimn7
-- 👀 I’m interested in competitive coding
-- 🌱 I’m currently learning dsa and cc
+- 👀
 - 💞️ I’m looking to collaborate on(not sure yet)
 - 📫 How to reach me ig: asim._.7
 
