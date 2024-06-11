@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @asimn7
-- 👀
-- 💞️ I’m looking to collaborate on(not sure yet)
-- 📫 How to reach me ig: asim._.7
+-diet coke addict
 
 <!---
 asimn7/asimn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
